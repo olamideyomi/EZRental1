@@ -1,0 +1,55 @@
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSinClient.exe.config
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSinClient.exe
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSinClient.pdb
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSBOLayer.dll
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSDALayer.dll
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSBOLayer.pdb
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSDALayer.pdb
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.AssemblyReference.cache
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardMSForm.resources
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmERPSystemForm.resources
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmMainWelcomeForm.resources
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.Properties.Resources.resources
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.GenerateResource.cache
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.CoreCompileInputs.cache
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.CopyComplete
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.exe
+C:\Users\olamide yomi\Downloads\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.pdb
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSinClient.exe.config
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSinClient.exe
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSinClient.pdb
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSBOLayer.dll
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSDALayer.dll
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSBOLayer.pdb
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\bin\Debug\ARMSDALayer.pdb
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.AssemblyReference.cache
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardMSForm.resources
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardRegistration.resources
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardSearch.resources
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmERPSystemForm.resources
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmMainWelcomeForm.resources
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.Properties.Resources.resources
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.GenerateResource.cache
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.CoreCompileInputs.cache
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.CopyComplete
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.exe
+C:\Users\olamide yomi\Documents\Newdesign\ARMS\ARMSinClient\obj\Debug\ARMSinClient.pdb
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.AssemblyReference.cache
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.exe
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.pdb
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSinClient.exe.config
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSinClient.exe
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSinClient.pdb
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSBOLayer.dll
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSDALayer.dll
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSBOLayer.pdb
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\bin\Debug\ARMSDALayer.pdb
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardMSForm.resources
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardRegistration.resources
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmCreditCardSearch.resources
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmERPSystemForm.resources
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.frmMainWelcomeForm.resources
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.Properties.Resources.resources
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.GenerateResource.cache
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.CoreCompileInputs.cache
+C:\Users\olamide yomi\Downloads\EZRentals Management System\ARMS\ARMSinClient\obj\Debug\ARMSinClient.csproj.CopyComplete
